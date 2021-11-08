@@ -1,5 +1,5 @@
 - Hello, I’m Carlos Zinato @TomTom
-- I’m interested in Game, Music and Photography.
+- I’m interested in Photography, Music and Game.
 
 <!---
 carloszinato-tomtom/carloszinato-tomtom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
